@@ -1,0 +1,18 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=5146
+
+This is one of five colorschemes that were made with Base16 Builder. For the construction of these colorschemes, Solarized colorscheme stood as a model. Like in Solarized, the colorschemes come in a light  and in a dark background version. Its really just variations on the same idea, but each with its own color-value relations, interdependent on each other and their base (background-)color.  
+
+One can find the demopage for these colorschemes at:
+http://atelierbram.github.io/syntax-highlighting/atelier-schemes/ 
+
+Downloads at the GitHub repo: 
+https://github.com/atelierbram/vim-colors_atelier-schemes
+
+More information on this particular colorscheme: 
+http://atelierbram.github.io/syntax-highlighting/atelier-schemes/sulphurpool
+
+Screenshot dark version: 
+http://atelierbram.github.io/syntax-highlighting/assets/img/sulphurpool-dark_vim_640x425.png
+
+Screenshot light version: 
+http://atelierbram.github.io/syntax-highlighting/assets/img/sulphurpool-light_vim_640x425.png
